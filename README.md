@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 
 
 ## My Link
-| サービス | URL | 
+| サイト| URL | 
 | -------- | -------- | 
 | GitHub     | https://github.com/M-hayatooo     | 
-| Home page  | https://M-hayatooo.github.io/     |
+
 
 ## 趣味
 - マンガ・アニメ
