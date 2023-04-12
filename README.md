@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 ## 学会発表
 - 情報処理学会 第85回全国大会(https://www.ipsj.or.jp/event/taikai/85/index.html)
-- 3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
-- 大会学生奨励賞受賞(https://www.ipsj.or.jp/award/taikaigakusei.html)
+  - 標題：3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
+  - 大会学生奨励賞受賞(https://www.ipsj.or.jp/award/taikaigakusei.html)
 
 
 ### 概略
