@@ -22,7 +22,12 @@ Here are some ideas to get you started:
  - 2019.4～2023.3 法政大学 理工学部 応用情報工学科 卒業
  - 2023.4～2023.　Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
 
-         
+## 学会発表
+- 情報処理学会 第85回全国大会(https://www.ipsj.or.jp/event/taikai/85/index.html)
+- 3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
+- 大会学生奨励賞受賞(https://www.ipsj.or.jp/award/taikaigakusei.html)
+
+
 ### 概略
 - 研究ではPythonを使用
 - Flutter アプリケーション開発経験あり
