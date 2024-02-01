@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ## 所属
 - 法政大学 大学院 理工学研究科 応用情報工学専攻 Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
-- [知的情報処理研究室 (Intelligent Information Processing Laboratory) (彌冨研究室 IYATOMI LABORATORY) ](https://iyatomi-lab.info/)
-
+- [知的情報処理研究室 (彌冨研究室) ](https://iyatomi-lab.info/)
+ -  Intelligent Information Processing Laboratory (IYATOMI LABORATORY)
 
 ### 概略
 - 研究ではPythonを使用
