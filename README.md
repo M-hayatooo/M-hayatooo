@@ -32,10 +32,11 @@ Here are some ideas to get you started:
    - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
    - **Author** : [Hayato Muraki](https://github.com/M-hayatooo), Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info) <br>
 
+## 
 
-### 概略
-- 研究ではPythonを使用
-- Flutter アプリケーション開発経験あり
+
+## 所属
+- [知的情報処理研究室（彌冨研究室）](https://iyatomi-lab.info/)
  
 ### プログラミング言語
 - Python
