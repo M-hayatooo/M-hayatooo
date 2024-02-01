@@ -35,7 +35,11 @@ Here are some ideas to get you started:
 
 ## 所属
 - [知的情報処理研究室（彌冨研究室）](https://iyatomi-lab.info/)
- 
+
+### 概略
+- 研究ではPythonを使用
+- Flutter アプリケーション開発経験あり
+  
 ### プログラミング言語
 - Python
   - 研究で日常的に使用
