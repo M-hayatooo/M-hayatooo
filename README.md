@@ -29,7 +29,8 @@ Here are some ideas to get you started:
   - [発表資料 (Googleスライド) ](https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing)
     
  - 58th Annual Conference on Information Sciences and Systems (CISS) (https://ee-ciss.princeton.edu/)
-   - Title：Isometric Feature Embedding for Content-Based Image Retrieval
+   - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
+   - **Author** : 
 
 
 ### 概略
