@@ -23,13 +23,13 @@ Here are some ideas to get you started:
  - 2023.4～2024.　Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
 
 ## 学会発表
-- **情報処理学会** 第85回全国大会 <a target="_blank" href="https://www.ipsj.or.jp/event/taikai/85/">(https://www.ipsj.or.jp/event/taikai/85/) </a>にて研究成果を発表
-  - **大会学生奨励賞受賞** <a href="https://www.ipsj.or.jp/event/taikai/85/" target="_blank">(https://www.ipsj.or.jp/award/taikaigakusei.html) </a>
+- **情報処理学会** 第85回全国大会 <a target="_blank" href="https://www.ipsj.or.jp/event/taikai/85/" rel=“noopener”>(https://www.ipsj.or.jp/event/taikai/85/) </a>にて研究成果を発表
+  - **大会学生奨励賞受賞** <a href="https://www.ipsj.or.jp/event/taikai/85/" target="_blank" rel=“noopener”>(https://www.ipsj.or.jp/award/taikaigakusei.html) </a>
   - 標題：3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
-  - <a target="_blank" href="https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing">発表資料 (Googleスライド) </a>
+  - <a target="_blank" href="https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing" rel=“noopener”>発表資料 (Googleスライド) </a>
   
     
- - ***58th Annual Conference on Information Sciences and Systems (CISS)*** <a target="_blank" href="https://ee-ciss.princeton.edu/">https://ee-ciss.princeton.edu/</a>
+ - ***58th Annual Conference on Information Sciences and Systems (CISS)*** <a target="_blank" href="https://ee-ciss.princeton.edu/" rel=“noopener”>https://ee-ciss.princeton.edu/</a>
    - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
    - **Author** : [Hayato Muraki](https://github.com/M-hayatooo), Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info) <br>
    - **Author** : <a target="_blank" href="https://github.com/M-hayatooo">Hayato Muraki</a>, Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and <a target="_blank" href="https://iyatomi-lab.info">Hitoshi Iyatomi</a> <br>
