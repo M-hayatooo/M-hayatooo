@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   - 標題：3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
   - [発表資料 (Googleスライド) ](https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing)
     
- - <h3>58th Annual Conference on Information Sciences and Systems (CISS) [https://ee-ciss.princeton.edu/]</h3> 
+ - <h3>58th Annual Conference on Information Sciences and Systems (CISS) <h4>https://ee-ciss.princeton.edu/</h4></h3> 
    - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
    - **Author** : [Hayato Muraki](https://github.com/M-hayatooo), Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info) <br>
 
