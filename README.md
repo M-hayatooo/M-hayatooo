@@ -30,13 +30,13 @@ Here are some ideas to get you started:
     
  - 58th Annual Conference on Information Sciences and Systems (CISS) (https://ee-ciss.princeton.edu/)
    - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
-   - **Author** : 
+   - **Author** : [Hayato Muraki](https://github.com/M-hayatooo), Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info) <br>
 
 
 ### 概略
 - 研究ではPythonを使用
 - Flutter アプリケーション開発経験あり
-- 
+ 
 ### 言語
 - Python
   - 研究で日常的に使用
