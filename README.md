@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hayato Muraki　~ _profile_ ~
 ## 名前
-- 村木 隼人 (Muraki Hayato)
+- **村木 隼人 (Muraki Hayato)**
 
 ## 学歴
  - 2016.4～2019.3 私立淑徳巣鴨高等学校 普通科 卒業
