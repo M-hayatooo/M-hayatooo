@@ -29,9 +29,10 @@ Here are some ideas to get you started:
   - <a target="_blank" href="https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing">発表資料 (Googleスライド) </a>
   
     
- - ***58th Annual Conference on Information Sciences and Systems (CISS)*** <a target="_blank" href="https://ee-ciss.princeton.edu/">https://ee-ciss.princeton.edu/</a>()
+ - ***58th Annual Conference on Information Sciences and Systems (CISS)*** <a target="_blank" href="https://ee-ciss.princeton.edu/">https://ee-ciss.princeton.edu/</a>
    - **Title** : Isometric Feature Embedding for Content-Based Image Retrieval
-   - **Author** : [Hayato Muraki](https://github.com/M-hayatooo){:target="_blank"}, Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info){:target="_blank"} <br>
+   - **Author** : [Hayato Muraki](https://github.com/M-hayatooo), Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and [Hitoshi Iyatomi](https://iyatomi-lab.info) <br>
+   - **Author** : <a target="_blank" href="https://github.com/M-hayatooo">Hayato Muraki</a>, Kei Nishimaki, Shuya Tobari, Kenichi Oishi, and <a target="_blank" href="https://iyatomi-lab.info">Hitoshi Iyatomi</a> <br>
 
 
 ## 所属
