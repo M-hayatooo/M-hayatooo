@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 - **情報処理学会** 第85回全国大会 <a target="_new" href="https://www.ipsj.or.jp/event/taikai/85/" rel=“noopener”>(https://www.ipsj.or.jp/event/taikai/85/) </a>にて研究成果を発表
   - **大会学生奨励賞受賞** <a href="https://www.ipsj.or.jp/event/taikai/85/" target="_new" rel=“noopener”>(https://www.ipsj.or.jp/award/taikaigakusei.html) </a>
   - 標題：3次元脳画像の類似症例検索実現に向けた高いデータ保存性を持つ低次元特徴表現の獲得
+  - <p><a href="https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing" target="_blank">アンカーテキスト</a></p>
   - <a target="_new" href="https://docs.google.com/presentation/d/1wsYyl48yeAqdhn1Iu3QhayfB5NuBlttl0wLE5TTg8Gk/edit?usp=sharing" rel=“noopener”>発表資料 (Googleスライド) </a>
+  
   
     
  - ***58th Annual Conference on Information Sciences and Systems (CISS)*** <a target="_new" href="https://ee-ciss.princeton.edu/" rel=“noopener”>https://ee-ciss.princeton.edu/</a>
