@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 研究ではPythonを使用
 - Flutter アプリケーション開発経験あり
  
-### 言語
+### プログラミング言語
 - Python
   - 研究で日常的に使用
   - Webアプリケーション開発にはFlaskを使える
