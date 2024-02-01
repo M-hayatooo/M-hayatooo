@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hayato Muraki　~ profile ~
+# Hayato Muraki　~ _profile_ ~
 ## 名前
 - 村木 隼人 (Muraki Hayato)
 
