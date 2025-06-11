@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   (Intelligent Information Processing Laboratory (IYATOMI LABORATORY))
 
 ## 所属2
- - 2025.4～2025.　 Corporate-m, Development Department, Product Leader 
+ - Corporate-m, Development Department, Product Leader 
 
 ### 概略
 - 研究ではPythonを使用
