@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 ## 学歴
  - 2016.4～2019.3 私立淑徳巣鴨高等学校 普通科 卒業
  - 2019.4～2023.3 法政大学 理工学部 応用情報工学科 卒業
- - 2023.4～2024.　Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
+ - 2023.4～2025.3　Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
+ - 2025.4～2025.　 Doctoral course, Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
+
 
 ## 学会発表
 - **情報処理学会** 第85回全国大会 (https://www.ipsj.or.jp/event/taikai/85/) にて研究成果を発表
@@ -40,6 +42,9 @@ Here are some ideas to get you started:
   (Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University)
 - [知的情報処理研究室 (彌冨研究室)](https://iyatomi-lab.info/)<br>
   (Intelligent Information Processing Laboratory (IYATOMI LABORATORY))
+
+## 所属2
+ - 2025.4～2025.　 Corporate-m, Development Department, Product Leader 
 
 ### 概略
 - 研究ではPythonを使用
