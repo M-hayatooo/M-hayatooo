@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 ## 名前
 - 村木 隼人 (Muraki Hayato)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-hayatooo)](https://github.com/M-hayatooo/github-readme-stats)
+
 ## 学歴
- - 2016.4～2019.3 私立淑徳巣鴨高等学校 普通科 卒業
- - 2019.4～2023.3 法政大学 理工学部 応用情報工学科 卒業
- - 2023.4～2025.3　Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
  - 2025.4～2025.　 Doctoral course, Department of Applied Informatics, Graduate School of Science and Engineering, Hosei University
 
 
